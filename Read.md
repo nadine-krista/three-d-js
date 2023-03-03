@@ -1,0 +1,1 @@
+## rather than using create react we are using vite which is now popular to initialize our application.
